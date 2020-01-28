@@ -35,3 +35,4 @@ is how you will publish your pages to the web for the world to see, or just your
 * Chase Staples
 * Northwest Missour State University
 * Computer Science Major - Junior 
+![Hosted image](https://bloximages.chicago2.vip.townnews.com/maryvilleforum.com/content/tncms/assets/v3/editorial/e/ed/eed7196e-506e-11e7-838c-f769324f852a/59403dc1afdee.image.jpg?resize=1200%2C1203) Image from the Maryville Daily Forum
