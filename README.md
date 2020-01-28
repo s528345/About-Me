@@ -7,17 +7,17 @@
  - [Markdown Language](https://www.markdownguide.org/basic-syntax)
  
 ## About
-These respitories will be about my projects that I am working on, one that links to my page as well, and some other side projects and open-source projects too.
+These repositories will be about my projects that I am working on, one that links to my page as well, and some other side projects and open-source projects too.
 
 ## Recommended Tools
 * [Markdown Language](https://www.markdownguide.org/basic-syntax) 
-is used to create pages and respitories on Git. In the link up above, will be a useful guide to helping you create those pages and something extra to your pages as well. 
+is used to create pages and repostories on Git. In the link up above, will be a useful guide to helping you create those pages and something extra to your pages as well. 
 * [GitHub Pages](https://pages.github.com/)
 is how you will publish your pages to the web for the world to see, or just your friends and colleagues to see.
 * [GitHub Pages Help](https://help.github.com/en/github/working-with-github-pages/about-github-pages) is the GitHub help page that goes over any question you may have about your GitHub page. 
 
 
-## Respitories
+## Repositories
 * [Chase Staples](https://s528345.github.io/Chase-Staples/)
 * [Other Respitories](https://github.com/s528345?tab=repositories)
 
